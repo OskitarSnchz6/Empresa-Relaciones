@@ -55,4 +55,9 @@ public class Departamento {
 	public void setSede(Sede sede) {
 		this.sede = sede;
 	}
+
+	public void addSede(Sede sede1) {
+		// TODO Auto-generated method stub
+		
+	}
 }

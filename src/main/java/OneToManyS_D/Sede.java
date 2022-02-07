@@ -53,4 +53,9 @@ public class Sede {
      public void setNom_sede(String nom_sede) {
          this.nom_sede = nom_sede;
      }
+
+	public void addDepartamento(Departamento dpto3) {
+		// TODO Auto-generated method stub
+		
+	}
 }
